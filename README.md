@@ -1,2 +1,2 @@
 # MenuWizard
-a project to create a varied menu for the week
+a project to create a varied menu for a week
